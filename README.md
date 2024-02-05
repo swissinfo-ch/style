@@ -1,0 +1,2 @@
+# style
+swissinfo code style
